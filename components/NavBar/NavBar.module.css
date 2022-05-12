@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+}
+.logo {
+  margin: 5px;
+}
+.nav {
+  margin-left: auto;
+}
+.nav__list {
+  height: auto;
+  display: flex;
+}
+.nav__item {
+  display: block;
+  margin: 30px;
+  font-size: 30px;
+  font-weight: 400;
+  font-family: Aero_Matics;
+  color: rgb(0, 0, 0);
+}
